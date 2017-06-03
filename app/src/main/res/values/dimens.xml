@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="widget_margin">8dp</dimen>
+    <!-- Today Widget -->
+    <dimen name="widget_today_default_width">200dp</dimen>
+    <dimen name="widget_today_default_height">100dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="appbar_elevation">4dp</dimen>
+
+</resources>

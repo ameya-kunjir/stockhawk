@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false"> اسعار الاسهم</string>
+    <string name="dialog_title">إضافة أسهم</string>
+    <string name="dialog_hint">(على سبيل المثال GOOG) رمز</string>
+    <string name="dialog_cancel">إلغاء</string>
+    <string name="dialog_add">إضافة</string>
+    <string name="error_no_network">أي شبكة اتصال! سيتم تحميل المؤشر الأسهم عندما تتوفر الشبكة</string>
+    <string name="error_no_stocks">وأضافت يوجد مخزون! اضغط على زر عمل العائمة لإضافة واحد</string>
+
+   <string name="toast_stock_added_no_connectivity">وأضاف رمز. سيتم تحديث عندما الشبكة المتوفرة</string>
+    <string name="toast_no_connectivity">سيتم تحديث عندما شبكة المتاحة</string>
+
+    <string name="launch_add_stock_dialog_conent_desc">تطلق إضافة قائمة الأسهم الحوار</string>
+
+    <string name="pref_display_mode_absolute_key">مطلق</string>
+    <string name="pref_display_mode_percentage_key">النسبة المئوية</string>
+
+
+    <string name="empty_stock_list">لا معلومات الأسهم لعرض</string>
+
+
+</resources>
